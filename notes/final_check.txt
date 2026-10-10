@@ -1,0 +1,7 @@
+Student Name: TUYISHIMIRE Emmanuel
+GitHub Username: emmanuel-tuyishimire
+Repository: SE103-Week6
+Repository URL: https://github.com/emmanuel-tuyishimire/SE103-Week6
+Git habits I demonstrated this week: I used git status to inspect my workspace before committing. I wrote clear, descriptive commit messages starting with verbs. I utilized .gitignore to keep sensitive files like my secret.env out of history. I also practiced creating branches and self-reviewing my pull requests.
+One mistake-prevention habit I will keep: I will always run git diff --staged before a commit to ensure I am not accidentally saving secrets or broken code.
+All required files are on main: Yes
