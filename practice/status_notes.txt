@@ -1,0 +1,3 @@
+Student Name: TUYISHIMIRE Emmanuel
+What I check before committing: I run 'git status' to see which files are staged and unstaged. I also check my current branch to avoid committing to the wrong place. If needed, I use 'git diff' to review exact line changes.
+What I am committing now and why: I am committing the status notes text file. This serves as proof of understanding the inspect-before-commit habit for the assignment.
