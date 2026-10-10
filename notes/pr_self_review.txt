@@ -1,0 +1,5 @@
+Student Name: TUYISHIMIRE Emmanuel
+What changed: I added a new section to the README file to document my careful Git habits. I also created this self-review text file to practice reviewing my own work.
+How I verified the change: I used git status to confirm which files were modified. I also opened the files to ensure the formatting was correct.
+One possible improvement a reviewer might suggest: A reviewer might suggest providing concrete examples of the files I put in my .gitignore list.
+Professional response I would give: Good catch. I will add examples like .env and .log to make the habits more specific.
