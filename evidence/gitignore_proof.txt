@@ -1,0 +1,8 @@
+Student Name: TUYISHIMIRE Emmanuel
+Patterns in my .gitignore:
+.DS_Store
+*.log
+temp/
+secret.env
+What git status showed about the ignored files: When I ran git status, the secret.env, app.log, and temp folder did not show up as untracked files. Git completely ignored them based on the rules I set.
+Why committing secrets is dangerous: Committing secrets like API keys exposes them to the public or unauthorized users. Malicious bots constantly scan GitHub for exposed keys to steal data or hijack server resources.
