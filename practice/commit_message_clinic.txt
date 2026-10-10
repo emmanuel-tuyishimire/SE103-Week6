@@ -1,0 +1,11 @@
+Student Name: TUYISHIMIRE Emmanuel
+Weak message 1: updates
+Improved message 1: update README with project setup instructions
+Why this is better: It tells the reviewer exactly which file was updated and what information was added.
+Weak message 2: final final
+Improved message 2: fix typo in database configuration
+Why this is better: It describes the specific fix instead of just saying it is the last commit.
+Weak message 3: stuff
+Improved message 3: add CSS styling to the login button
+Why this is better: It replaces a vague word with the exact feature that was built.
+My personal commit message rule: I will always start my commit messages with a clear action verb and describe exactly what was changed.
